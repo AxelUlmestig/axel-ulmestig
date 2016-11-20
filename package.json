@@ -1,12 +1,11 @@
 {
-  "name": "NodejsStarterApp",
+  "name": "homepage",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "cfenv": "^1.0.3",
     "ejs": "^2.4.2",
     "express": "^4.13.4"
   },

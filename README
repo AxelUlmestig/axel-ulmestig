@@ -1,0 +1,2 @@
+To pull the submodule:
+git submodule update --init cv
